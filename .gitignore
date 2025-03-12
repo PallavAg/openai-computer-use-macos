@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# macOS system files
+.DS_Store
+
+# Logs and cache
+*.log
+*.cache
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Pip dependency file
+pip-log.txt
+pip-delete-this-directory.txt
